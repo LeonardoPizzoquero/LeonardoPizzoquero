@@ -9,3 +9,5 @@ Web Developer
 Enthusiast of front-end development technologies.
 
 Making the web a better place.
+
+<a href="https://app.daily.dev/LeonardoP"><img src="https://api.daily.dev/devcards/8624fd1587314795ae7a39e7f4cdab4f.png?r=k8v" width="400" alt="Leonardo Pizzoquero's Dev Card"/></a>
