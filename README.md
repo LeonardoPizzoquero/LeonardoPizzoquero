@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pecege as Software Engineer<br> ⚡ Making the web a better place <br>🌱 I want to become a Machine Learning Engineer<br>
+🔭 I’m currently working on Pecege as Software Engineer<br> ⚡ Making the web a better place <br>🌱 I want to become a Data Scientist<br>
 
 
 ## 🌐 Socials:
